@@ -1,4 +1,6 @@
-
+<p align="center">
+  <img src="assets/banner.png" alt="InstaChecker" width="100%">
+</p>
 # InstaChecker
 
 A lightweight, Python-based Instagram follow-back checker that compares your Followers and Following lists to identify accounts you follow that don't follow you back.
