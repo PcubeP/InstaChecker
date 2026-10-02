@@ -1,0 +1,45 @@
+
+# Python virtual environment
+.venv/
+venv/
+env/
+
+# Python cache and compiled files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Environment variables and credentials
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+
+# Instagram authenticated browser session
+instagram_browser_profile/
+playwright/.auth/
+.auth/
+
+# Generated reports and personal account data
+follow_back_results.txt
+*.csv
+*.json
+
+# Logs
+*.log
+logs/
+
+# Test and coverage artifacts
+.pytest_cache/
+.coverage
+htmlcov/
+
+# IDE and editor settings
+.vscode/
+.idea/
+
+# Operating system files
+.DS_Store
+Thumbs.db
+Desktop.ini
